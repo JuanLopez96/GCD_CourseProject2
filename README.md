@@ -1,4 +1,3 @@
-#README
 ##The script
 The R scpript called run_analysis.R does the following: 
 1. Merges the training and the test sets to create one data set.
